@@ -1,0 +1,18 @@
+{
+    "name": "cfx/kz-cript",
+    "description": "this package for encrypt decrypt php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cfx\\KzCript\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mhavid",
+            "email": "havidkonoha@gmail.com"
+        }
+    ],
+    "require": {}
+}
